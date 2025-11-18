@@ -1,0 +1,6 @@
+GigaLearnCPP/libtorch/*
+!GigaLearnCPP/libtorch/.gitkeep
+GigaLearnCPP/collision_meshes/*
+!GigaLearnCPP/collision_meshes/README.md
+GigaLearnCPP/build/
+GigaLearnCPP/checkpoints/
